@@ -6,7 +6,7 @@ I wanted something like those white stencil plates where you shake sprinkles ove
 
 It's a single HTML file. No build step, no install.
 
-**Try it:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Try it:** [https://italiansquirel.github.io/Sprinkle-Stencil-Maker/](https://italiansquirel.github.io/Sprinkle-Stencil-Maker/)
 
 ## Running it yourself
 
